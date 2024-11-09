@@ -35,12 +35,28 @@ mysqli_query($koneksi, $simpan);
   </thead>
   <tbody>
     <tr>
-      <th scope="row">kode</th>
-      <td>:<?=$kode ?></td>
+      <th scope="row">NIDN</th>
+      <td>:<?=$NIDN ?></td>
     </tr>
     <tr>
-        <th scope="row">jurusan</th>
-        <td>:<?=$jurusan ?></td>
+        <th scope="row">NAMA LENGKAP</th>
+        <td>:<?=$NAMA_LENGKAP ?></td>
+    </tr>
+    <tr>
+        <th scope="row">RUMPUN</th>
+        <td>:<?=$RUMPUN ?></td>
+    </tr>
+    <tr>
+        <th scope="row">TEMPAT LAHIR</th>
+        <td>:<?=$TEMPAT_LAHIR ?></td>
+    </tr>
+    <tr>
+        <th scope="row">TANGGAL LAHIR</th>
+        <td>:<?=$TANGGAL_LAHIR ?></td>
+    </tr>
+    <tr>
+        <th scope="row">EMAIL</th>
+        <td>:<?=$EMAIL ?></td>
     </tr>
   </tbody>
 </table>

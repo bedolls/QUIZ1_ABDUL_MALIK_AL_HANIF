@@ -22,7 +22,7 @@
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">NAMA LENGKAP</label>
+    <label for="exampleInputPassword1" class="form-label">NAMA_LENGKAP</label>
     <input type="text" class="form-control" id="exampleInputPassword1" name="NAMA">
   </div>
   <div class="mb-3">
@@ -36,11 +36,11 @@
    </select>
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">TEMPAT LAHIR</label>
+    <label for="exampleInputPassword1" class="form-label">TEMPAT_LAHIR</label>
     <input type="text" class="form-control" id="exampleInputPassword1" name="TEMPAT">
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">TAMGGAL LAHIR</label>
+    <label for="exampleInputPassword1" class="form-label">TAMGGAL_LAHIR</label>
     <input type="DATE" class="form-control" id="exampleInputPassword1" name="TANGGAL">
   </div>
   <div class="mb-3">
