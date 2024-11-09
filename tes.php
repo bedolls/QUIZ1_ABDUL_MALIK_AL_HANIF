@@ -27,7 +27,7 @@ mysqli_query($koneksi, $simpan);
         <div class="col-6 m-auto">
         <div class="card">
   <div class="card-header">
-   <h3>Form Jurusan</h3> 
+   <h3>Form DOSEN</h3> 
   </div>
   <div class="card-body">
   <table class="table">
