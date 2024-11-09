@@ -27,7 +27,7 @@
   </div>
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">RUMPUN</label>
-   <select name="agama" id="">
+   <select name="KEAHLIAN" id="">
     <option value="KOMPUTER">KOMPUTER</option>
     <option value="AKUNTANSI">AKUNTANSI</option>
     <option value="MANAJEMEN">MANAJEMEN</option>
