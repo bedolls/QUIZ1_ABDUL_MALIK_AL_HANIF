@@ -27,7 +27,14 @@
   </div>
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">RUMPUN</label>
-    <input type="text" class="form-control" id="exampleInputPassword1" name="KEAHLIAN">
+   <select name="agama" id="">
+    <option value="">-pilih RUMPUN-</option>
+    <option value="Islam">KOMPUTER</option>
+    <option value="kristen">AKUNTANSI</option>
+    <option value="Hindu">MANAJEMEN</option>
+    <option value="katolik">PERPAJAKAN</option>
+    <option value="Buddha">BISNIS</option>
+   </select>
   </div>
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">TEMPAT LAHIR</label>
