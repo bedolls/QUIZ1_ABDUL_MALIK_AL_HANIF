@@ -23,7 +23,23 @@
   </div>
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">NAMA LENGKAP</label>
-    <input type="text" class="form-control" id="exampleInputPassword1" name="jurusan">
+    <input type="text" class="form-control" id="exampleInputPassword1" name="NAMA">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">RUMPUN</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" name="KEAHLIAN">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">TEMPAT LAHIR</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" name="TEMPAT">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">TAMGGAL LAHIR</label>
+    <input type="DATE" class="form-control" id="exampleInputPassword1" name="TANGGAL">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">EMAIL</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" name="EMAIL">
   </div>
     <div class="mb-3">
     <input type="checkbox" class="form-check-input" id="exampleInputPassword1">
