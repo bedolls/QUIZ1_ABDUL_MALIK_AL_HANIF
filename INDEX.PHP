@@ -15,10 +15,10 @@
    <h3>Form DOSEN</h3> 
   </div>
   <div class="card-body">
-    <form action="proses_latihan.php" method="POST" enctype="multipart/form-data">
+    <form action="tes.php" method="POST" enctype="multipart/form-data">
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">NIDN</label>
-    <input type="text"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="kode">
+    <input type="text"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="KODE">
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
@@ -28,12 +28,11 @@
   <div class="mb-3">
     <label for="exampleInputPassword1" class="form-label">RUMPUN</label>
    <select name="agama" id="">
-    <option value="">-pilih RUMPUN-</option>
-    <option value="Islam">KOMPUTER</option>
-    <option value="kristen">AKUNTANSI</option>
-    <option value="Hindu">MANAJEMEN</option>
-    <option value="katolik">PERPAJAKAN</option>
-    <option value="Buddha">BISNIS</option>
+    <option value="KOMPUTER">KOMPUTER</option>
+    <option value="AKUNTANSI">AKUNTANSI</option>
+    <option value="MANAJEMEN">MANAJEMEN</option>
+    <option value="PERPAJAKAN">PERPAJAKAN</option>
+    <option value="BISNIS">BISNIS</option>
    </select>
   </div>
   <div class="mb-3">
